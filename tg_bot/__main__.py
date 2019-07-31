@@ -22,12 +22,8 @@ PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help
 
 I'm a group manager bot built in python3, using the python-telegram-bot library, and am fully opensource; \
-you can find what makes me tick [here](github.com/PaulSonOfLars/tgbot)!
-
-Feel free to submit pull requests on github, or to contact my support group, @MarieSupport, with any bugs, questions \
-or feature requests you might have :)
-I also have a news channel, @MarieNews for announcements on new features, downtime, etc.
-
+you can find what makes me tick [here](https://github.com/ananduks/tgbot)!
+know anything @anandus always feel free to help
 You can find the list of available commands with /help.
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
